@@ -1,2 +1,2 @@
 # Flexbox
-Aprendendo um pouco mais sobre o flexbox
+Projeto Desenvolvido do Zero, utilizando HTML5 e CSS3 com foco na Tecnologia Flexbox.
